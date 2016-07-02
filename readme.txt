@@ -1,8 +1,7 @@
-Git is a distributed 	version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes
+fatal: Unable to create 'D:/learngit/.git/index.lock': File exists.
 
-Git tracks changes of files.
-
-Creating a new branch is quick.
+Another git process seems to be running in this repository, e.g.
+an editor opened by 'git commit'. Please make sure all processes
+are terminated then try again. If it still fails, a git process
+may have crashed in this repository earlier:
+remove the file manually to continue.
